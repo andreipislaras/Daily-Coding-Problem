@@ -1,3 +1,7 @@
 # PyCharm
 .idea
 venv
+
+# CLion
+Problem #6/C++/XOR linked list/.idea
+Problem #6/C++/XOR linked list/cmake-build-debug
